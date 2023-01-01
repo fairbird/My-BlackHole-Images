@@ -4,3 +4,6 @@ DM920/BlackHole-8.6-20221129-dm920_web-Py3.zip filter=lfs diff=lfs merge=lfs -te
 DM920/BlackHole-8.7-20230101-dm920_web-Py3.zip filter=lfs diff=lfs merge=lfs -text
 DM7080/BlackHole-8.6-20221129-dm7080-Py3.tar.xz filter=lfs diff=lfs merge=lfs -text
 DM7080/BlackHole-8.7-20230101-dm7080-Py3.tar.xz filter=lfs diff=lfs merge=lfs -text
+DM520/*.xz filter=lfs diff=lfs merge=lfs -text
+DM920/*.xz filter=lfs diff=lfs merge=lfs -text
+DM7080/*.xz filter=lfs diff=lfs merge=lfs -text
