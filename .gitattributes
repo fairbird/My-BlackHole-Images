@@ -1,3 +1,6 @@
 DM520/*.xz filter=lfs diff=lfs merge=lfs -text
 DM920/*.zip filter=lfs diff=lfs merge=lfs -text
 DM7080/*.xz filter=lfs diff=lfs merge=lfs -text
+DM920/cortexa15hf-neon-vfpv4/libmariadb-staticdev_*.ipk filter=lfs diff=lfs merge=lfs -text
+DM520/mips32el/libmariadb-staticdev_*.ipk filter=lfs diff=lfs merge=lfs -text
+DM7080/mips32el/libmariadb-staticdev_*.ipk filter=lfs diff=lfs merge=lfs -text
